@@ -1,4 +1,5 @@
 'use client';
+// Mobile responsive client portal interface for Warden SSI.
 
 import { useState, useEffect, useRef } from 'react';
 import { Buffer } from 'buffer';
